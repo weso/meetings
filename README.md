@@ -8,7 +8,17 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 <details open>
 <summary>2019</summary>
-  
-   * [Herminio](http://herminiogarcia.com)
-
+  <details open>
+    <summary>February</summary>
+      <details open>
+        <summary>6th: [Victor Aravena](https://www.linkedin.com/in/victoraravena/)</summary> 
+        Victor Aravena, PhD student in WESO, Professor at Universidad de la Frontera and co-founder of [Biosoft](https://biosoft.cl/), presents his PhD work and his professional activities.
+      </details>
+    <details open>
+      <summary>[Herminio García](http://herminiogarcia.com)</summary>
+      Herminio presents the proposal for the [KGSWC2109](http://www.kgswc.org/) congress entitled 'Translating from AMR to RDF and SPARQL:A position paper'. In this work we propose AMR as a useful tool in order to achieve automatic translation between natural language entries and semantic web standars. We discuss techniques to perform this translation.
+      Resources:
+      * [AMR specification](https://amr.isi.edu/)
+    </details>
+  </details>
 </details>
