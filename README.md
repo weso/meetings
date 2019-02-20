@@ -4,10 +4,9 @@
 
 Information on official in-person WESO Research Group meetings. Each meeting will have its own agenda published before the meeting, and minutes will be posted in the invitation document after the meeting, including topics discussions and decisions.
 
-## Meetings
+# Meetings
 
-<details open>
-<summary>February 2019</summary>
+## February 2019
  
  ### 6th: [Victor Aravena](https://www.linkedin.com/in/victoraravena/)
  
@@ -20,6 +19,4 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 Resources:
 
 * [AMR specification](https://amr.isi.edu/)
- 
- </details>
 
