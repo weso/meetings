@@ -25,3 +25,6 @@ Resources:
 ### 7th: [Guillermo Facundo](https://github.com/thewilly)
 
  Guillermo (Willy) will present the system developed for the company IZERTIRS S.L. that defines an unified optimized search systemfor the SNOMED CT and ICD classifications systems. You can download the keynote [here](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex%40thewilly.pdf), see the [documentadion](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex.pdf) or take a look to the [repo](https://github.com/thewilly/snoicd-codex) of the project.
+ 
+ Example:
+ * [http://54.154.181.97:8082/api/search?q=fiebre](http://54.154.181.97:8082/api/search?q=fiebre)
