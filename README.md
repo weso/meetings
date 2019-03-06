@@ -20,6 +20,14 @@ Resources:
 
 * [AMR specification](https://amr.isi.edu/)
 
+### 28th: [Daniel Fernández](http://danifdez.weso.es/)
+Dani presents his work about inference of Shape Expressions in RDF grpahs, as well as a review of current working prototypes to perform the same task developed by other researchers. Dani's prototype is called Shexer.
+
+Resources: 
+* [Shexer repository](https://github.com/DaniFdezAlvarez/shexer)
+* [Result of some experiments using Shexer](https://github.com/DaniFdezAlvarez/shexer/tree/develop/experiments)
+* [Some other efforts to perform Shape Inference](https://github.com/shexSpec/shex/wiki/schemaInference)
+
 ## March 2019
 
 ### 7th: [Guillermo Facundo](https://github.com/thewilly)
