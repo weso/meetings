@@ -6,6 +6,15 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 # Meetings
 
+## March 2019
+
+### 7th: [Guillermo Facundo](https://github.com/thewilly)
+
+ Guillermo (Willy) will present the system developed for the company IZERTIRS S.L. that defines an unified optimized search systemfor the SNOMED CT and ICD classifications systems. You can download the keynote [here](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex%40thewilly.pdf), see the [documentadion](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex.pdf) or take a look to the [repo](https://github.com/thewilly/snoicd-codex) of the project.
+ 
+ Example:
+ * [http://54.154.181.97:8082/api/search?q=fiebre](http://54.154.181.97:8082/api/search?q=fiebre)
+
 ## February 2019
  
 ### 6th: [Victor Aravena](https://www.linkedin.com/in/victoraravena/)
@@ -28,11 +37,3 @@ Resources:
 * [Result of some experiments using Shexer](https://github.com/DaniFdezAlvarez/shexer/tree/develop/experiments)
 * [Some other efforts to perform Shape Inference](https://github.com/shexSpec/shex/wiki/schemaInference)
 
-## March 2019
-
-### 7th: [Guillermo Facundo](https://github.com/thewilly)
-
- Guillermo (Willy) will present the system developed for the company IZERTIRS S.L. that defines an unified optimized search systemfor the SNOMED CT and ICD classifications systems. You can download the keynote [here](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex%40thewilly.pdf), see the [documentadion](https://github.com/thewilly/snoicd-codex/blob/master/docs/snoicd-codex.pdf) or take a look to the [repo](https://github.com/thewilly/snoicd-codex) of the project.
- 
- Example:
- * [http://54.154.181.97:8082/api/search?q=fiebre](http://54.154.181.97:8082/api/search?q=fiebre)
