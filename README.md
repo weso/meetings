@@ -6,6 +6,12 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 # Meetings
 
+## December 2019
+
+### 19th: [José Labra](http://labra.weso.es/)
+
+José Labra presents a short tutorial about ontologies. It takes place at the Valdes Salas building's Assembly Hall.
+
 ## March 2019
 
 ### 7th: [Guillermo Facundo](https://github.com/thewilly)
