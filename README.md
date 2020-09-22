@@ -6,11 +6,33 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 # Meetings
 
+## September 2020
+
+### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
+
+## July 2020
+
+### 3rd [Jose Labra](http://labra.weso.es/)
+
+Jose Labra gives a speech about Research projects, funding chances within university, collaboration between industry and academia, and intellectual property. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_researchprojectsintellectualproperty/).
+
+## June 2020
+
+### 26th [Jose Labra](http://labra.weso.es/)
+
+This talk by Jose Labra explores many aspects about publishing scientific content: writting technique, types of publications, how to deal with failures, CV, etc. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_publications/).
+
+
+### 17th [Jose Labra](http://labra.weso.es/)
+
+Jose Labra introduces the research world and the PhD studies to the newest members of WESO. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_research/).
+
+
 ## December 2019
 
-### 19th: [José Labra](http://labra.weso.es/)
+### 19th: [Jose Labra](http://labra.weso.es/)
 
-José Labra presents a short tutorial about ontologies. It takes place at the Valdes Salas building's Assembly Hall.
+Jose Labra presents a short tutorial about ontologies. It takes place at the Valdes Salas building's Assembly Hall.
 
 ## March 2019
 
