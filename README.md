@@ -10,6 +10,8 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 ### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
 
+Roberto García gives a speech about the VIVO system implemented at the University of Lleida to easily localize experts in different research areas. The slides of the talk can be dowloaded here: [Material]().
+
 ## July 2020
 
 ### 3rd [Jose Labra](http://labra.weso.es/)
