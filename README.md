@@ -10,19 +10,19 @@ Information on official in-person WESO Research Group meetings. Each meeting wil
 
 ### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
 
-Roberto García gives a speech about the VIVO system implemented at the University of Lleida to easily localize experts in different research areas. The slides of the talk can be dowloaded here: [Material](https://github.com/weso/meetings/blob/master/materials/ExpertsUdL-VIVO.pdf).
+Roberto García gives a speech about the VIVO system implemented at the University of Lleida to easily localize experts in different research areas. The slides of the talk can be downloaded here: [Material](https://github.com/weso/meetings/blob/master/materials/ExpertsUdL-VIVO.pdf).
 
 ## July 2020
 
 ### 3rd [Jose Labra](http://labra.weso.es/)
 
-Jose Labra gives a speech about Research projects, funding chances within university, collaboration between industry and academia, and intellectual property. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_researchprojectsintellectualproperty/).
+Jose Labra gives a speech about Research projects, funding possibilities within the university, collaborations between industry and academia, and intellectual property. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_researchprojectsintellectualproperty/).
 
 ## June 2020
 
 ### 26th [Jose Labra](http://labra.weso.es/)
 
-This talk by Jose Labra explores many aspects about publishing scientific content: writting technique, types of publications, how to deal with failures, CV, etc. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_publications/).
+This talk by Jose Labra explores many aspects of publishing scientific content: writing technique, types of publications, how to deal with failures, CV, etc. The slides are available in Labra's web: [Material](http://labra.weso.es/talk/2020_introduction_publications/).
 
 
 ### 17th [Jose Labra](http://labra.weso.es/)
