@@ -53,7 +53,7 @@ Jose Labra presents a short tutorial about ontologies. It takes place at the Val
  
 ### 21th: [Herminio García](http://herminiogarcia.com)
  
- Herminio presents the proposal for the [KGSWC2109](http://www.kgswc.org/) congress entitled 'Translating from AMR to RDF and SPARQL:A position paper'. In this work we propose AMR as a useful tool in order to achieve automatic translation between natural language entries and semantic web standars. We discuss techniques to perform this translation.
+ Herminio presents the proposal titled 'Translating from AMR to RDF and SPARQL: A position paper'. In this work we propose AMR as a useful tool in order to achieve automatic translation between natural language entries and semantic web standars. We discuss techniques to perform this translation.
 
 Resources:
 
