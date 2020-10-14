@@ -22,17 +22,17 @@ Dani makes a brief introduction about Wikidata, Commons, Wikibase, and how these
 * We start a separate channel within WESO to keep developing this idea.
 
 
-### 2nd - Emilio Rubiera - Phd Thesis
+### 2nd - [Emilio Rubiera](https://www.linkedin.com/in/emiliorubiera/?originalSubdomain=es) - Phd Thesis
 Emilio Rubiera presents his PhD work in linguistics. The main contribution of his thesis is a nowel classification of types of communication, which includes a new category of elements which have both simbolic and iconic features. The slides of this tlak can be dowloaded here: [Material]().
 
 
 ## September 2020
 
-### 25th - [Jose Labra](http://labra.weso.es/), [Alejandro Hevia](), and [Pablo Méndez]() - HERCULES
+### 25th - [Jose Labra](http://labra.weso.es/), [Alejandro González](https://github.com/alejgh), and [Pablo Menéndez](https://github.com/mistermboy) - HERCULES
 The speakers present the HERCULES project to the rest of the members of WESO. Labra introduces the general frame of HERCULES and its different modules, including  ASIO (Arquitectura Semántica e Infraestructura Ontológica) and EDMA (Enriquecimiento de Datos y Métodos de Análisis). Then, Pablo explains the work already performed for the ASIO module and Alejandro presents his work for with the EDMA challenge. The materials of these talks can de downloaded:
 
 * HERCULES project, by Jose Labra: [Download]().
-* ASIO module, by Pablo Mnéndez: [Download]().
+* ASIO module, by Pablo Menéndez: [Download]().
 * EDMA challenge, by Alejandro Hevia: [Download]().
 
 ### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
