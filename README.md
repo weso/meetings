@@ -32,8 +32,8 @@ Emilio Rubiera presents his PhD work in linguistics. The main contribution of hi
 The speakers present the HERCULES project to the rest of the members of WESO. Labra introduces the general frame of HERCULES and its different modules, including  ASIO (Arquitectura Semántica e Infraestructura Ontológica) and EDMA (Enriquecimiento de Datos y Métodos de Análisis). Then, Pablo explains the work already performed for the ASIO module and Alejandro presents his work for with the EDMA challenge. The materials of these talks can de downloaded:
 
 * HERCULES project, by Jose Labra: [Download]().
-* ASIO module, by Pablo Menéndez: [Download]().
-* EDMA challenge, by Alejandro Hevia: [Download]().
+* ASIO module, by Pablo Menéndez: [Download](https://github.com/weso/meetings/blob/master/materials/Integraci%C3%B3n%20Continua%20Hercules.pdf).
+* EDMA challenge, by Alejandro Hevia: [Download](https://github.com/weso/meetings/blob/master/materials/%5BWESO%5D%202020-09-25%20Hercules%20Challenge.pdf).
 
 ### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
 
