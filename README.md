@@ -9,14 +9,32 @@ Each meeting has its own agenda, and minutes will be posted in the invitation do
 
 ## October 2020
 
-### 16th October - Jose Labra - Shapes applications and tools
+### 16th October - [Jose Labra](http://labra.weso.es/) - Shapes applications and tools
 
-### 9th October - Dani Fernández - Wikidata
+### 9th October - [Daniel Fernández](http://danifdez.weso.es/) - Wikidata hackathon
 
-### 2nd Emilio Rubiera Phd Thesis
+Dani makes a brief introduction about Wikidata, Commons, Wikibase, and how these projects are related and integrated in the Wikimedia's ecosystem. Then, he introduces the idea of organizing a hackathon to produce apps which use the data available in Wikidata and Commons. This is a first meeting to discuss several dimensions of this project: targte public, which external external organizations may have interest in participating, scope of the hackathon, dates, people within WESO interested this initiative... some conclussions arise:
+
+* Dani will be the person leading the organization of this initiative.
+* The target participants will be essentially composed by technical profiles, althaugh we do not discard to invite or involve people with non-technical profiles from different knowledge areas.
+* There is an obvious need of involving external organizations (at least the EII) and invest time producin an efficient marketing to reach our target public.
+* We want to keep a collaborative spirit for the event, but also to be able to give some kind of reward to the best proposal(s).
+* We start a separate channel within WESO to keep developing this idea.
+
+
+### 2nd - Emilio Rubiera - Phd Thesis
+Emilio Rubiera presents his PhD work in linguistics. The main contribution of his thesis is a nowel classification of types of communication, which includes a new category of elements which have both simbolic and iconic features. The slides of this tlak can be dowloaded here: [Material]().
 
 
 ## September 2020
+
+### 25th - [Jose Labra](http://labra.weso.es/), [Alejandro Hevia](), and [Pablo Méndez]() - HERCULES
+The speakers present the HERCULES project to the rest of the members of WESO. Labra introduces the general frame of HERCULES and its different modules, including  ASIO (Arquitectura Semántica e Infraestructura Ontológica) and EDMA (Enriquecimiento de Datos y Métodos de Análisis). Then, Pablo explains the work already performed for the ASIO module and Alejandro presents his work for with the EDMA challenge. The materials of these talks can de downloaded:
+
+* HERCULES project, by Jose Labra: [Download]().
+* ASIO module, by Pablo Mnéndez: [Download]().
+* EDMA challenge, by Alejandro Hevia: [Download]().
+
 ### 18th [Roberto García](http://www.eps.udl.cat/ca/info_sobre/pdi/roberto-garcia-gonzalez/index.html)
 
 Roberto García will talk about the VIVO system implemented at the University of Lleida to easily localize experts in different research areas. The slides of the talk can be downloaded here: [Material](https://github.com/weso/meetings/blob/master/materials/ExpertsUdL-VIVO.pdf).
