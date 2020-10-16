@@ -23,7 +23,7 @@ Dani makes a brief introduction about Wikidata, Commons, Wikibase, and how these
 
 
 ### 2nd - [Emilio Rubiera](https://www.linkedin.com/in/emiliorubiera/?originalSubdomain=es) - Phd Thesis
-Emilio Rubiera presents his PhD work in linguistics. The main contribution of his thesis is a nowel classification of types of communication, which includes a new category of elements which have both simbolic and iconic features. The slides of this tlak can be dowloaded here: [Material]().
+Emilio Rubiera presents his PhD work in linguistics. The main contribution of his thesis is a nowel classification of types of communication, which includes a new category of elements which have both discursive and iconic features. The slides of this tlak can be dowloaded here: [Material]().
 
 
 ## September 2020
