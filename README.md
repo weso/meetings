@@ -7,7 +7,13 @@ Each meeting has its own agenda, and minutes will be posted in the invitation do
 
 # Meetings
 
-## October 2020
+## April 2121
+
+### 23rd October
+
+## October 2020 - [Daniel Fernández](http://danifdez.weso.es/) - sheXer: overview and paper
+
+Dani presents the tool shexer to automatically extract shapes (ShEx/SHACL) from KGs. Then he presents a paper about sheXer which is about to be submitted and discusses some points of the experiment in this paper. 
 
 ### 16th October - [Jose Labra](http://labra.weso.es/) - Shapes applications and tools
 
